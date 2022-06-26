@@ -1,0 +1,58 @@
+
+.bag , .shoe
+{
+    height: 45px;
+    border-radius: 0 0 4px 4px;
+    margin-top: -12px;
+    border-top: 1px solid grey;
+}
+
+.shoe_b {
+    font-size: 13px;
+    height: 70%;
+    text-align: center;
+    justify-content: center;
+}
+.btn {
+    background-color: #FF136F;
+    border: none;
+}
+
+.carousel-item{
+    padding: 20px 40px;
+}
+
+.carousel{
+    border-radius: 5px;
+    background-color: #eaacb9;
+}
+
+.cat1 {
+    background-color: orange;
+    border-radius: 5px;
+}
+.cat1 img{
+    width: 107px !important;
+}
+.cat2 {
+    background-color: rgb(170, 47, 170);
+    border-radius: 5px;
+}
+.cat3 {
+    background-color: rgb(77, 87, 225);
+    border-radius: 5px;
+}
+.cat1,.cat2,.cat3{
+    padding: 10px 30px;
+}
+.category img{
+    width: 100px;
+}
+.category h3{
+    color:white;
+}
+
+.contract {
+    background-color:rgb(243, 186, 243); ;
+}
+
